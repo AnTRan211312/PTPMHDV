@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/controller/SendEmailSMTP.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/dao/ChiTietPhieuNhapDAO.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/model/NhaCungCap.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/controller/SearchAccount.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/controller/BCrypt.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/controller/WritePDF.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/dao/PCDAO.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/controller/SearchNhaCungCap.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/dao/MayTinhDAO.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/model/Laptop.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/database/JDBCUtil.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/controller/ConvertDate.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/model/ThongKeProduct.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/controller/Test.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/dao/ThongKeDAO.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/view/ThongKeForm.java</file>
+            <file>file:/E:/project/QuanLyKhoHangMayTinh-main/src/model/PhieuNhap.java</file>
+        </group>
+    </open-files>
+</project-private>
