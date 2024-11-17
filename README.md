@@ -1,6 +1,6 @@
-<!-- author: hgbaodev -->
+
 # Quản lý kho hàng máy tính
-Đồ án môn Lập trình hướng đối tượng sử dụng Java Swing + MySQL
+
 ## Getting Started
 
 1. Tải source code về:
